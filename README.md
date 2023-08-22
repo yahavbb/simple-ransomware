@@ -29,12 +29,12 @@ pip install pycryptodome cryptography
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yahavbb/ransomware.git
+   git clone https://github.com/yahavbb/simple-ransomware.git
    ```
 
 2. Run the script using Python:
    ```bash
-   python ransomware.py
+   python malware.py
    ```
 
 3. Choose the mode (`encrypt` or `decrypt`) and provide the necessary parameters:
